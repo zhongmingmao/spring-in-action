@@ -13,8 +13,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>single-data-source</module>
-        <module>single-data-source-pure</module>
+        <module>single-datasource</module>
+        <module>single-datasource-pure</module>
     </modules>
 
 </project>

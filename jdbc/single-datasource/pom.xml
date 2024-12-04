@@ -9,7 +9,7 @@
         <version>0.1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>single-data-source</artifactId>
+    <artifactId>single-datasource</artifactId>
 
     <dependencies>
         <dependency>

@@ -8,7 +8,7 @@
         <version>0.1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>single-data-source-pure</artifactId>
+    <artifactId>single-datasource-pure</artifactId>
 
     <dependencies>
         <dependency>
