@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: single-data-source
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'health,beans'
